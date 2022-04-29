@@ -1,0 +1,668 @@
+{
+  "users": [
+    {
+      "email": "derick@nss.com",
+      "firstName": "Derick",
+      "lastName": "Cravens",
+      "id": 1
+    },
+    {
+      "email": "hulikner@gmail.com",
+      "firstName": "Derick",
+      "lastName": "Cravens",
+      "id": 2
+    },
+    {
+      "email": "d@me.com",
+      "firstName": "d",
+      "lastName": "c",
+      "id": 3
+    }
+  ],
+  "exoPlanets": [
+    {
+      "id": 1,
+      "name": "Earth",
+      "mass": "1",
+      "radius": "1",
+      "eqTemp": "1",
+      "orbit": "365",
+      "lightYears": "0",
+      "detail": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. While large amounts of water can be found throughout the Solar System, only Earth sustains liquid surface water. About 71% of Earth's surface is made up of the ocean, dwarfing Earth's polar ice, lakes, and rivers. The remaining 29% of Earth's surface is land, consisting of continents and islands. Earth's surface layer is formed of several slowly moving tectonic plates, interacting to produce mountain ranges, volcanoes, and earthquakes. Earth's liquid outer core generates the magnetic field that shapes Earth's magnetosphere, deflecting destructive solar winds.",
+      "rating": 4.2
+    },
+    {
+      "id": 2,
+      "name": "KOI 4878.01",
+      "mass": "0.92",
+      "radius": "1.05",
+      "eqTemp": "1.05",
+      "orbit": "449",
+      "lightYears": "1075",
+      "detail": "KOI-4878.01 is an exoplanet that orbits the F-type main-sequence star KOI-4878. It is located about 1075 light years (329 parsecs) from Earth. The features of the planet are very similar to that of Earth and is one of the most Earth-like planets found. The orbital period of the exoplanet is around 449 Earth days. It is located within the habitable zone of its parent star.",
+      "rating": 3.75
+    },
+    {
+      "id": 3,
+      "name": "TOI 700 d",
+      "mass": "1.72",
+      "radius": "1.14",
+      "eqTemp": "0.87",
+      "orbit": "37.4",
+      "lightYears": "101",
+      "detail": "TOI 700 d is a near-Earth-sized exoplanet, rocky, orbiting within the habitable zone of the red dwarf TOI 700, the outermost planet within the system. It is located roughly 101.4 light-years (31.1 pc) away from Earth in the constellation of Dorado. The exoplanet was the first Earth-sized exoplanet in the habitable zone discovered by the Transiting Exoplanet Survey Satellite (TESS).TOI 700 d orbits its star at a distance of 0.163 AU (24,400,000 km; 15,200,000 mi) from its host star with an orbital period of roughly 37.4 days, has a mass 1.69x times that of Earth, and has a radius of around 1.19 times that of Earth. It has been estimated that the planet receives about 86% the energy that the Earth receives from the Sun.",
+      "rating": 2.75
+    },
+    {
+      "id": 4,
+      "name": "K2 72e",
+      "mass": "2.21",
+      "radius": "1.29",
+      "eqTemp": "1.11",
+      "orbit": "24.2",
+      "lightYears": "217",
+      "detail": "K2-72 e is a super Earth exoplanet that orbits an M-type star. Its mass is 2.21 Earths, it takes 24.2 days to complete one orbit of its star, and is 0.106 AU from its star.",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "name": "Teegarden's Star b",
+      "mass": "1.05",
+      "radius": "1.02",
+      "eqTemp": "1.15",
+      "orbit": "4.91",
+      "lightYears": "12.58",
+      "detail": "Teegarden's Star b is a super Earth exoplanet that orbits an M-type star. Its mass is 1.05 Earths, it takes 4.9 days to complete one orbit of its star, and is 0.0252 AU from its star.",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "name": "TRAPPIST 1d",
+      "mass": "0.30",
+      "radius": "0.78",
+      "eqTemp": "1.04",
+      "orbit": "4.05",
+      "lightYears": "12.58",
+      "detail": "TRAPPIST-1d is one of seven Earth-sized planets in the TRAPPIST-1 system. About 40 light-years from Earth, TRAPPIST-1 is unusual both for its number of small rocky planets and the number in the habitable zone. Several of the photo's shown above show water and ice in the system. The proximity of the planets to their red dwarf star allows all of them to have water on their surface. ",
+      "rating": 3
+    },
+    {
+      "id": 7,
+      "name": "Kepler 1649c",
+      "mass": "0.40",
+      "radius": "1.06",
+      "eqTemp": "0.75",
+      "orbit": "19.5",
+      "lightYears": "301",
+      "detail": "Kepler-1649c is an Earth-sized exoplanet, rocky, orbiting within the habitable zone of the red dwarf star Kepler-1649, the outermost planet of the planetary system discovered by Hulikner in his extravagent wormhole shuttle. It is located about 301 light-years (92 pc) away from Earth, in the constellation of Cygnus.",
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Proxima Centauri b",
+      "mass": "1.27",
+      "radius": "1.30",
+      "eqTemp": "0.70",
+      "orbit": "11.186",
+      "lightYears": "4.25",
+      "detail": "Proxima Centauri b is an exoplanet orbiting in the habitable zone of the red dwarf star Proxima Centauri, which is the closest star to the Sun and part of the triple star system Alpha Centauri. It is approximately 4.2 ly (1.3 pc) from Earth in the constellation Centaurus, making it, Proxima c, and Proxima d the closest exoplanets to the Solar System. Proxima Centauri b orbits its star at a distance of roughly 0.05 AU (7.5 million km; 4.6 million mi) with an orbital period of approximately 11.2 Earth days.",
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "name": "Gliese 1061 d",
+      "mass": "1.64",
+      "radius": "1.70",
+      "eqTemp": "0.69",
+      "orbit": "13.0",
+      "lightYears": "12",
+      "detail": "Exoplanet Gliese 1061 d orbits star Gliese 1061 that lies 12 light years away from the Sun. It weighs about 1.6 Earth masses and orbits its star much closer than Earth orbits Sun.",
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "name": "Gliese 1061 c",
+      "mass": "1.74",
+      "radius": "1.70",
+      "eqTemp": "1.45",
+      "orbit": "6.7",
+      "lightYears": "12",
+      "detail": "Gliese 1061 c is a habitable exoplanet orbiting within the limits of the defined habitable zone of its red dwarf parent star. Gliese 1061 c is 75% more massive than the Earth. The planet receives 35% more stellar flux than Earth and has an equilibrium temperature of 35 °F. The average temperature on the surface is warmer, 93 °F, the atmosphere is of similar composition to the Earth's. Gliese 1061 c orbits its parent star very closely, every 6.7 days at a distance of just 0.035 au, so it is gravitationally locked and in synchronous rotation with its star.",
+      "rating": 1.3333333333333333
+    },
+    {
+      "id": 11,
+      "name": "TRAPPIST 1e",
+      "mass": "0.77",
+      "radius": "0.91",
+      "eqTemp": "0.67",
+      "orbit": "6.1",
+      "lightYears": "39",
+      "detail": "TRAPPIST-1e is a solid, close-to-Earth-sized exoplanet orbiting within the habitable zone around the ultracool dwarf star TRAPPIST-1 approximately 40 light-years (12 parsecs; 380 trillion kilometers; 240 trillion miles) away from Earth in the constellation of Aquarius. Astronomers found the exoplanet by using the transit method, in which the dimming effect that a planet causes as it crosses in front of its star is measured.",
+      "rating": 4.2
+    },
+    {
+      "id": 12,
+      "name": "Wolf 1061c",
+      "mass": "3.41",
+      "radius": "1.91",
+      "eqTemp": "1.30",
+      "orbit": "17.9",
+      "lightYears": "13.8",
+      "detail": "Wolf 1061c is an exoplanet orbiting within the habitable zone of the red dwarf star Wolf 1061 in the constellation Ophiuchus, about 13.8 light years from Earth, making it the fifth closest exoplanet to Earth (after Proxima Centauri b, Ross 128 b, Luyten b and Tau Ceti e). It is the second planet in order from its host star in a triple planetary system, and has an orbital period of 17.9 days. Wolf 1061c is classified as a super-Earth exoplanet as its radius is greater than 1.5 times that of Earth.",
+      "rating": 5
+    },
+    {
+      "id": 13,
+      "name": "Kepler 442b",
+      "mass": "1.55",
+      "radius": "1.35",
+      "eqTemp": "0.70",
+      "orbit": "112.3",
+      "lightYears": "1193",
+      "detail": "Kepler-442 b is a super Earth exoplanet that orbits a K-type star. Its mass is 2.36 Earths, it takes 112.3 days to complete one orbit of its star, and is 0.409 AU from its star.",
+      "rating": 2
+    },
+    {
+      "id": 14,
+      "name": "Kepler 1229b",
+      "mass": "1.25",
+      "radius": "1.40",
+      "eqTemp": "0.49",
+      "orbit": "86.8",
+      "lightYears": "865",
+      "detail": "Kepler-442b is a near-Earth-sized exoplanet, rocky, orbiting within the habitable zone of the K-type main-sequence star Kepler-442, about 1,206 light-years (370 pc) from Earth in the constellation of Lyra. The planet orbits its host star at a distance of about 0.409 AU (61.2 million km; 38.0 million mi) with an orbital period of roughly 112.3 days. It has a mass of around 2.3 and has a radius of about 1.34 times Earth.",
+      "rating": 2
+    },
+    {
+      "id": 15,
+      "name": "Kepler 1606b",
+      "mass": "1.89",
+      "radius": "2.07",
+      "eqTemp": "1.41",
+      "orbit": "196.4",
+      "lightYears": "2710",
+      "detail": "Kepler-1606 b is a super Earth exoplanet that orbits a G-type star. Its mass is 4.94 Earths, it takes 196.4 days to complete one orbit of its star, and is 0.6421 AU from its star.",
+      "rating": 3
+    },
+    {
+      "id": 16,
+      "name": "Kepler 1090b",
+      "mass": "1.99",
+      "radius": "2.25",
+      "eqTemp": "1.20",
+      "orbit": "198.7",
+      "lightYears": "2800",
+      "detail": "Kepler-1090 b is a Neptune-like exoplanet that orbits a G-type star. Its mass is 5.69 Earths, it takes 198.7 days to complete one orbit of its star, and is 0.6364 AU from its star",
+      "rating": 5
+    },
+    {
+      "id": 17,
+      "name": "Kepler 452b",
+      "mass": "5",
+      "radius": "1.63",
+      "eqTemp": "1.11",
+      "orbit": "384.8",
+      "lightYears": "1799",
+      "detail": "Kepler-452b is a super-Earth exoplanet orbiting within the inner edge of the habitable zone of the sunlike star Kepler-452 and is the only planet in the system discovered by Kepler. It is located about 1,800 light-years (550 pc)[5] from Earth in the constellation of Cygnus.",
+      "rating": 2
+    },
+    {
+      "id": 18,
+      "name": "Kepler 1638b",
+      "mass": "3.5",
+      "radius": "1.87",
+      "eqTemp": "1.39",
+      "orbit": "259.3",
+      "lightYears": "4973",
+      "detail": "Kepler-1638 b is an exoplanet in orbit of its star, Kepler-1638, located in the constellation Cygnus. The planet is a super-Earth, with a radius of 1.87+0.3 to 0.22 Earth, and a mass of 4.16 Earths. It has an orbit of 259.337±0.013 days in its system's habitable zone and orbits 0.745 AU from its star. It is the farthest habitable exoplanet discovered, at approximately 2,867 light-years (879 pc) from Earth.",
+      "rating": 2
+    },
+    {
+      "id": 19,
+      "name": "Tau Ceti f",
+      "mass": "3.93",
+      "radius": "1.07",
+      "eqTemp": "0.32",
+      "orbit": "636.1",
+      "lightYears": "12",
+      "detail": "Tau Ceti f is a super Earth exoplanet that orbits a G-type star. Its mass is 3.93 Earths, it takes 1.7 years to complete one orbit of its star, and is 1.334 AU from its star.",
+      "rating": 2
+    },
+    {
+      "id": 20,
+      "name": "LHS 1140 b",
+      "mass": "6.98",
+      "radius": "1.73",
+      "eqTemp": "0.50",
+      "orbit": "24.7",
+      "lightYears": "49",
+      "detail": "LHS 1140 b is a massive, dense rocky planet orbiting within the conservative habitable zone of the red dwarf LHS 1140. LHS 1140 b is nearly 7 times the mass of Earth and over 60% larger in radius, putting it within the Super-Earth category of planets. It is one of the densest planets found, with a density more than twice that of Earth, along with a high surface gravity of about 2.41 Earth's. LHS 1140 b orbits entirely within the star's habitable zone and gets 41% the incident flux of Earth. The planet is only 40 light-years away.",
+      "rating": 1
+    },
+    {
+      "id": 21,
+      "name": "HD 40307 g",
+      "mass": "7.09",
+      "radius": "1.83",
+      "eqTemp": "0.67",
+      "orbit": "197.8",
+      "lightYears": "42",
+      "detail": "HD 40307 g is a Neptune-like exoplanet that orbits a K-type star. Its mass is 7.1 Earths, it takes 197.8 days to complete one orbit of its star, and is 0.6 AU from its star.",
+      "rating": 5
+    },
+    {
+      "id": 22,
+      "name": "Gliese 832 c",
+      "mass": "5.40",
+      "radius": "1.83",
+      "eqTemp": "0.99",
+      "orbit": "35.7",
+      "lightYears": "16",
+      "detail": "Gliese 832 c is an extrasolar planet located approximately 16 light-years (4.93 parsecs, or about 151,400,000,000,000 km) away in the constellation of Grus, orbiting the star Gliese 832, a red dwarf. It is in its star's habitable zone and a big reason for its high rating is it receives the same amount of solar flux as the earth in the habitable exoplanets catalog. The planet has a mass of 5.2 Earth's masses and an estimated radius of >1.5 Earth radii.",
+      "rating": 4
+    },
+    {
+      "id": 23,
+      "name": "K2 288Bb",
+      "mass": "2.02",
+      "radius": "1.91",
+      "eqTemp": "0.44",
+      "orbit": "31.4",
+      "lightYears": "214",
+      "detail": "K2-288 B b is a super Earth exoplanet that orbits an M-type star. Its mass is 4.27 Earths, it takes 31.4 days to complete one orbit of its star, and is 0.164 AU from its star.",
+      "rating": 4
+    },
+    {
+      "id": 24,
+      "name": "Luyten 98 59 f",
+      "mass": "2.46",
+      "radius": "1.61",
+      "eqTemp": "1",
+      "orbit": "23.15",
+      "lightYears": "34.6",
+      "detail": "L 98-59 d is a super Earth exoplanet that orbits an M-type star. Its mass is 1.94 Earths, it takes 7.5 days to complete one orbit of its star, and is 0.0486 AU from its star.",
+      "rating": 3
+    },
+    {
+      "id": 25,
+      "name": "Kapteyn b",
+      "mass": "4.8",
+      "radius": "1.31",
+      "eqTemp": "0.43",
+      "orbit": "48.6",
+      "lightYears": "13",
+      "detail": "Kapteyn b is a super-Earth, a planet that has a radius and mass bigger than that of Earth, but smaller than that of the ice giants Uranus and Neptune. It has a surface temperature of negative 91 °F. It has a mass greater than or equal to 4.8 MEarth and a radius less than or equal to around 1.6 REarth making it a rocky world.",
+      "rating": 1
+    }
+  ],
+  "itineraries": [
+    {
+      "id": 1,
+      "userId": 1,
+      "departure": 1651017600,
+      "return": 1650240000,
+      "exoPlanetId": 5,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Ion-Drive"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "departure": 1648598400,
+      "return": 1650672000,
+      "exoPlanetId": 23,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Wormhole-Drive"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "departure": 1649116800,
+      "return": 1651104000,
+      "exoPlanetId": 19,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Warp-Drive",
+      "paid": true
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "departure": 1648598400,
+      "return": 1651017600,
+      "exoPlanetId": 10,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Warp-Drive"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "departure": 1649030400,
+      "return": 1649116800,
+      "exoPlanetId": 25,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Ion-Drive",
+      "paid": true
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "departure": 1649203200,
+      "return": 1651017600,
+      "exoPlanetId": 10,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Warp-Drive"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "departure": 1650931200,
+      "return": 1650931200,
+      "exoPlanetId": 4,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Wormhole-Drive"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "departure": 1648512000,
+      "return": 1649721600,
+      "exoPlanetId": 12,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Ion-Drive"
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "departure": 1648512000,
+      "return": 1651708800,
+      "exoPlanetId": 3,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Warp-Drive"
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "departure": 1648598400,
+      "return": 1651622400,
+      "exoPlanetId": 21,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Wormhole-Drive"
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "departure": 1651017600,
+      "return": 1650931200,
+      "exoPlanetId": 5,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Warp-Drive"
+    },
+    {
+      "id": 12,
+      "userId": 2,
+      "departure": 1648425600,
+      "return": 1648598400,
+      "exoPlanetId": 11,
+      "receiptId": "",
+      "reviewId": "",
+      "mode": "Wormhole-Drive"
+    }
+  ],
+  "receipts": [
+    {
+      "userId": 1,
+      "departure": 1650412800,
+      "return": 1650931200,
+      "exoPlanetId": 20,
+      "mode": "Warp-Drive",
+      "paid": 39.5,
+      "itineraryId": 5,
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "departure": 1648598400,
+      "return": 1651017600,
+      "exoPlanetId": 1,
+      "mode": "Warp-Drive",
+      "paid": 15,
+      "itineraryId": 2,
+      "id": 28
+    },
+    {
+      "userId": 1,
+      "departure": 1651881600,
+      "return": 1651536000,
+      "exoPlanetId": 9,
+      "mode": "Ion-Drive",
+      "paid": 18,
+      "itineraryId": 3,
+      "id": 29
+    },
+    {
+      "userId": 1,
+      "departure": 1649203200,
+      "return": 1651622400,
+      "exoPlanetId": 22,
+      "mode": "Warp-Drive",
+      "paid": 23,
+      "itineraryId": 6,
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "departure": 1648598400,
+      "return": 1651708800,
+      "exoPlanetId": 4,
+      "mode": "Warp-Drive",
+      "paid": 123.5,
+      "itineraryId": 7,
+      "id": 31
+    },
+    {
+      "userId": 1,
+      "departure": 1649203200,
+      "return": 1651622400,
+      "exoPlanetId": 13,
+      "mode": "Wormhole-Drive",
+      "paid": 2401,
+      "itineraryId": 8,
+      "id": 32
+    },
+    {
+      "userId": 1,
+      "departure": 1649116800,
+      "return": 1651104000,
+      "exoPlanetId": 19,
+      "mode": "Warp-Drive",
+      "paid": 21,
+      "itineraryId": 3,
+      "id": 33
+    },
+    {
+      "userId": 1,
+      "departure": 1649030400,
+      "return": 1649116800,
+      "exoPlanetId": 25,
+      "mode": "Ion-Drive",
+      "paid": 18.25,
+      "itineraryId": 5,
+      "id": 34
+    }
+  ],
+  "hubDrives": [
+    {
+      "id": 1,
+      "name": "Central Interplanetary Hub",
+      "detail": "The Hub is the largest artificial structure in the galaxy, with a population of 13.2 million intelligent beings from across the Milky Way galaxy, and uses centrifugal force to create artificial gravity for its inhabitants. The Hub orbits around Jupiters moon Europa in the Milky Way Galaxy and is a great central launching point to several Exo-Planets. This is where you will leave from to travel to the Exo-Planet of your choosing. To get to The Hub there is a base cost of 5 Bitcoin for earth inhabitants. ",
+      "cardDetail": "The Largest Artificial Structures In the Galaxy",
+      "pic": "./Images/Hub.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ion Drive",
+      "detail": "An ion drive ionizes propellant by adding or removing electrons to produce ions. Most thrusters ionize propellant by electron bombardment: a high-energy electron (negative charge) collides with a propellant atom (neutral charge), releasing electrons from the propellant atom and resulting in a positively charged ion. Putting out more energy than using allows us to constantly keep increasing speed till we are past the speed of light.",
+      "cardDetail": "The Net-Positive Dark Energy Drive",
+      "pic": "./Images/Ion Drive.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Warp Drive",
+      "detail": "The warp drive works by creating a bubble of flat spacetime around the spaceship and curving spacetime around that bubble to reduce distances. The warp drive requires either negative mass, a type of matter just discovered, or a ring of negative energy density to work.",
+      "cardDetail": "Bends Spacetime to It's Will",
+      "pic": "./Images/Warp Drive.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Wormhole Drive",
+      "detail": "The wormhole drive works by connecting two distant points with an artificially-created wormhole -- but without the need for transmitting or receiving gates. Instead, the ship's drive itself generates a large wormhole to the target destination. The duration of travel is 2 hours to any point even though it is instant. This is due to needing to have everyone on board and away from port to start charging the drives. Then boom, your'e there.",
+      "cardDetail": "Instantaneous Travel With Wormholes",
+      "pic": "./Images/Wormhole Drive.jpg"
+    }
+  ],
+  "abouts": [
+    {
+      "id": 1,
+      "name": "Exo-Travel",
+      "cardDetail": "Exo-Travel Corporation",
+      "detail": "The Exo-Travel Corporation is an American space advocacy corporation organized to promote the interests of increased involvement of the private sector, in collaboration with government, in the exploration and development of space. Its advocate members design and lead a collection of projects with goals that align to the organization's goals as described by its credo. Our goals include protecting the Earths fragile biosphere and creating a freer and more prosperous life for each generation by using the unlimited energy and material resources of space. Exo-Travel Corporation is an organization of people dedicated to the Space Frontier and human settlement. Our purpose is to unleash the power of free enterprise and lead a united humanity permanently into the Solar System.",
+      "pic": "./Images/Hub.jpg"
+    },
+    {
+      "id": 2,
+      "name": "The Hub",
+      "cardDetail": "The Hub, the largest artificial structure in the galaxy.",
+      "detail": "The Hub is the largest artificial structure in the galaxy, with a population of 13.2 million intelligent beings from across the Milky Way galaxy, and uses centrifugal force to create artificial gravity for its inhabitants. Initially, it was discovered by the asari and the salarians, the earliest post-Prothean races to discover the megastructures scattered throughout the galaxy that facilitate FTL travel. Following this, an executive committee known as the Hub Council was created, with the station functioning as the seat of galactic government. The Hub holds great sway in the galaxy, and are recognized as an authority by most of explored space.",
+      "pic": "./Images/Hub1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hulikner",
+      "cardDetail": "The Greatest Mind of All Generations",
+      "detail": "This is the man who aspires to save our planet and get us a new one to inhabit: clown, genius, edgelord, visionary, industrialist, showman, cad; a madcap hybrid of Thomas Edison, P.T. Barnum, Andrew Carnegie and Watchmens Doctor Manhattan, the brooding, blue-skinned man-god who invents electric cars and moves to Mars. His Exo-Travel Corporation has a defining moment in human civilization that lead us to expanding humanity throughout the universe. His car company controls two-thirds of the multibillion-dollar electric-vehicle market it pioneered and is valued at a cool $1 trillion. That has made Hulikner, with a net worth of more than $250 trillion, the richest private citizen in history, at least on paper. Hes a player in robots and solar, cryptocurrency and climate, brain-computer implants to stave off the menace of artificial intelligence and underground tunnels to move people and freight at super speeds. He dominates Wall Street",
+      "pic": "./Images/Genius.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "userId": 1,
+      "exoPlanetId": 2,
+      "message": "The Space Frontier Foundation is an American space advocacy nonprofit corporation organized to promote the interests of increased involvement of the private sector, in collaboration with government, in the exploration and development of space. Its advocate members design and lead a collection of projects with goals that align to the organization's goals as described by its credo.<br /> The Space Frontier Foundation is an organization of people dedicated to opening the Space Frontier to human settlement as rapidly as possible.<br /> Our goals include protecting the Earths fragile biosphere and creating a freer and more prosperous life for each generation by using the unlimited energy and material resources of space.<br /> Our purpose is to unleash the power of free enterprise and lead a united humanity permanently into the Solar System.",
+      "stars": 5,
+      "date": 1650981699.775,
+      "editTime": 0,
+      "editDate": 0
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "date": 1651077278.753,
+      "exoPlanetId": 8,
+      "message": "sweet",
+      "stars": "3",
+      "editDate": 1651077305.211
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "date": 1651266252.036,
+      "exoPlanetId": 10,
+      "message": "Id rather jump off a bridge then go here again.",
+      "stars": "0"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "date": 1651266399.665,
+      "exoPlanetId": 10,
+      "message": "Rather jump off a bridge!",
+      "stars": "0"
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "date": 1651266659.569,
+      "exoPlanetId": 12,
+      "message": "Dope Planet!",
+      "stars": "5"
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "date": 1651266745.727,
+      "exoPlanetId": 10,
+      "message": "I like it",
+      "stars": "4"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "date": 1651266879.171,
+      "exoPlanetId": 5,
+      "message": "Cool",
+      "stars": "4"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "date": 1651267159.421,
+      "exoPlanetId": 11,
+      "message": "That wormhole drive is nuts.",
+      "stars": "5",
+      "editDate": 1651267733.662
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "date": 1651267203.344,
+      "exoPlanetId": 11,
+      "message": "Wormhole Drive is nuts.",
+      "stars": "5"
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "date": 1651267302.769,
+      "exoPlanetId": 11,
+      "message": "Awesome",
+      "stars": "4"
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "date": 1651267835.133,
+      "exoPlanetId": 11,
+      "message": "Sweet Planet",
+      "stars": "4"
+    },
+    {
+      "id": 12,
+      "userId": 2,
+      "date": 1651268196.491,
+      "exoPlanetId": 11,
+      "message": "It was cold but alright",
+      "stars": "3"
+    },
+    {
+      "id": 13,
+      "userId": 2,
+      "date": 1651271297.183,
+      "exoPlanetId": 4,
+      "message": "It was nice.",
+      "stars": "4"
+    }
+  ]
+}
