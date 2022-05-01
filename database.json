@@ -357,7 +357,8 @@
       "exoPlanetId": 10,
       "receiptId": "",
       "reviewId": "",
-      "mode": "Warp-Drive"
+      "mode": "Warp-Drive",
+      "paid": true
     },
     {
       "id": 7,
@@ -377,7 +378,8 @@
       "exoPlanetId": 12,
       "receiptId": "",
       "reviewId": "",
-      "mode": "Ion-Drive"
+      "mode": "Ion-Drive",
+      "paid": true
     },
     {
       "id": 9,
@@ -500,6 +502,26 @@
       "paid": 18.25,
       "itineraryId": 5,
       "id": 34
+    },
+    {
+      "userId": 2,
+      "departure": 1649203200,
+      "return": 1651017600,
+      "exoPlanetId": 10,
+      "mode": "Warp-Drive",
+      "paid": 21,
+      "itineraryId": 6,
+      "id": 35
+    },
+    {
+      "userId": 2,
+      "departure": 1648512000,
+      "return": 1649721600,
+      "exoPlanetId": 12,
+      "mode": "Ion-Drive",
+      "paid": 18.45,
+      "itineraryId": 8,
+      "id": 36
     }
   ],
   "hubDrives": [
